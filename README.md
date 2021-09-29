@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Advanced Python 
 - 👯 I’m looking to collaborate on any project (python based ofcourse)
-- 📫 How to reach me **gichuru.developer@gmail.com**
+- 📫 How to reach me mailto: **gichuru.developer@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
