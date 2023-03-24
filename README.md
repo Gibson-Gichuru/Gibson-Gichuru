@@ -1,7 +1,7 @@
 ### Hi there 👋 ,  Gibson Here [:stuck_out_tongue_winking_eye:]("#" ":stuck_out_tongue_winking_eye:")
 
 
-- 🌱 I’m currently Web Security  
+- 🌱 I’m currently learning Web Security  
 - 👯 I’m looking to collaborate on any project 
 - 📫 How to reach me mailto: **gichuru.developer@gmail.com**
 
